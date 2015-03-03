@@ -14,7 +14,7 @@ void error_handling(char *message){
 }
 int calculate(int opnum, int opnds[], char oprator) ;
 
-int main(int argc,int *argv[]){
+int main(int argc,char *argv[]){
         int serv_sock, clnt_sock;
         char opinfo[BUF_SIZE];
         int result, opnd_cnt, i;
