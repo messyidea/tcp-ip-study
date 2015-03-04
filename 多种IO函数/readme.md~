@@ -1,0 +1,5 @@
+多种IO函数
+---
+
+MSG__OOB : 发送紧急消息
+(the sample maybe have some error)
